@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="css/style.css" />
+    <title>Document</title>
+  </head>
+  <body>
+    <div class="box">
+      Далеко-далеко за словесными горами в стране гласных и согласных живут
+      рыбные тексты. Свою путь повстречался, жизни строчка продолжил снова
+      обеспечивает предложения она?
+    </div>
+
+    <div class="box box11">
+      Далеко-далеко за словесными горами в стране гласных и согласных живут
+      рыбные тексты. Свою путь повстречался, жизни строчка продолжил снова
+      обеспечивает предложения она?
+    </div>
+    <br />
+    <div class="box2">
+      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Libero fugit
+      nulla itaque placeat explicabo eius veritatis id autem quam, reiciendis
+      ducimus porro sed rerum voluptates optio facilis nemo fuga tempora?
+    </div>
+    <div class="box2">
+      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Libero fugit
+      nulla itaque placeat explicabo eius veritatis id autem quam, reiciendis
+      ducimus porro sed rerum voluptates optio facilis nemo fuga tempora?
+    </div>
+    <br />
+    <div class="box3">
+      Lorem ipsum, dolor sit amet consectetur adipisicing elit. Illo culpa
+      consectetur ipsam quae neque eaque nemo consequuntur delectus non?
+      Voluptates quis obcaecati ipsam reprehenderit blanditiis quidem quaerat
+      dolorem in recusandae!
+    </div>
+
+    <div class="box3">
+      Lorem ipsum, dolor sit amet consectetur adipisicing elit. Illo culpa
+      consectetur ipsam quae neque eaque nemo consequuntur delectus non?
+      Voluptates quis obcaecati ipsam reprehenderit blanditiis quidem quaerat
+      dolorem in recusandae!
+    </div>
+
+    <a class="link" href="">Ссылка это строчный элемент</a>
+    <button>Кнопка</button>
+  </body>
+</html>
+
+
+footer
+div class=""
+

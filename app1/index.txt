@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="css/style.css" />
+    <title>Document</title>
+  </head>
+  <body>
+    <button
+      style="
+        font-size: 14px;
+        color: black;
+        background-color: orange;
+        border: 1px solid green;
+        padding: 12px 24px;
+        outline: none;
+        cursor: pointer;
+        margin: 10px;
+      "
+    >
+      Кнопкаddddddddddddddddd
+    </button>
+    <a
+      href="#"
+      style="
+        text-decoration: none;
+        width: 100px;
+        height: 200px;
+        font-size: 18px;
+        padding: 5px;
+        background: black;
+        margin: 10px;
+      "
+      >Ссылка</a
+    >
+  </body>
+</html>

@@ -1,0 +1,19 @@
+body {
+  box-sizing: border-box;
+}
+p {
+  margin: 0;
+  padding: 0;
+}
+h1 {
+  width: 350px;
+  height: 350 px;
+  display: inline-block;
+  color: red;
+  background: green;
+  border-width: 5px;
+  border-color: hotpink;
+  border: 5px solid yellow;
+  padding: 5px;
+  margin: 15px;
+}
