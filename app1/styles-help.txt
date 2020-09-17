@@ -1,0 +1,64 @@
+. {
+  box-sizing: border-box;
+}
+button {
+  color: orange;
+}
+p {
+  background: palegreen;
+}
+
+.orange {
+  background: plum;
+}
+.box {
+  display: inline-block;
+  width: 300px;
+  height: 300px;
+  background-color: red;
+  padding-left: 20px;
+  padding-top: 30px;
+  padding-right: 40px;
+  padding-bottom: 15px;
+  border-color: blue;
+  border-width: 9px 10px 15px 20px;
+  border-style: dotted;
+  margin: 20px;
+}
+.box11 {
+  margin-left: -40px;
+}
+.box2 {
+  width: 300px;
+  height: 300px;
+  background-color: rgb(181, 181, 238);
+  padding: 10px 20px 15px 25px;
+  border-color: red;
+  border-width: 10px;
+  border-top: dotted;
+  border-bottom: double;
+  border-left: groove;
+  border-right: dashed;
+  margin: 20px;
+}
+.box3 {
+  display: inline-block;
+  width: 300px;
+  height: 300px;
+  background-color: springgreen;
+  padding: 10px 20px;
+  border: solid 5px black;
+  margin: 20px;
+}
+/*
+.link {
+  background-color: grey;
+  padding: 10px;
+  margin-left: 60px;
+  margin-top: 50px;
+}
+button {
+  height: 40px;
+  width: 300px;
+}
+*/
